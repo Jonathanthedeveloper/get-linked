@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --color-primary: linear-gradient(to right,#FB34BB, #923AFE);
+    --dark-purple: "#150E28";
+    --blue: "#903AFF";
+    --pink: "D434FE";
+}
